@@ -1,2 +1,5 @@
-# royals-walk-cloud-app
-Royals Walk es un proyecto fullstack de una página web que será desplegada en AWS. Incluye funcionalidades de frontend y backend, y está diseñado para aprovechar servicios en la nube
+# Royals Walk
+
+Royals Walk es un proyecto de página web fullstack diseñado para ser desplegado en AWS. El proyecto incluye tanto el frontend como el backend, utilizando tecnologías modernas para crear una aplicación robusta y escalable.
+
+## Tecnologías Utilizadas
